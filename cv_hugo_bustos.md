@@ -31,30 +31,29 @@
 
 - Estudios universitarios:
 
-  Ingeniería Mecánica (Incompleta)
+  *Ingeniería Mecánica (Incompleta)*
 
-  Institución: Facultad de Ciencias, Exactas, Ingeniería y Agrimensura, UNR.
+  Institución: Facultad de Ciencias, Exactas, Ingeniería y Agrimensura, UNR. Período: 2012-2014.
 
-  Período: 2012-2014.
-
-  Ingeniería en Sistemas de la Información (Incompleta)
+  *Ingeniería en Sistemas de la Información (Incompleta)*
 
   Institución: Universidad Tecnológica Nacional, FRRO. Período: 2019-2021.
 
 ## Conocimientos informáticos
 
-### Programación
+**Programación**
 
-- Framework Laravel (PHP, Mysql) (BackEnd)
-- Framework VUE.js (JS, HTML, CSS) (FrontEnd)
-- Desarrollo de ANDROID apks
+- Framework Laravel (PHP, Mysql) (BackEnd).
+- Framework VUE.js (JS, HTML, CSS) (FrontEnd).
+- Desarrollo de ANDROID apks.
 - Uso de herramientas de versionado SVN y GIT.
+- Uso de Docker para implementación de proyectos.
 - Administración de Redes 1er módulo CCNA.
 
 ## Experiencia laboral
 
-- _Reparación de PC, programación web, apks y escritorio modo freelance._
-- _Desarrollo de software en GRUPO UNION SA. (2019-2022)_
+- *Reparación de PC, programación web, apks y escritorio modo freelance.*
+- *Desarrollo de software en GRUPO UNION SA. (2019-2022)*
 
   Apk para validación de identidad desarrollada en Android Studio
 
@@ -62,11 +61,11 @@
 
   Sistema de versionado SVN
 
-- _Desarrollo web en WebExperto (2022-Actualidad)_
+- *Desarrollo web en WebExperto (2022-Actualidad)*
 
-  Desarrollo y mantenimiento de e-commerce implementado en VUEjs 2, material design y bootstrap
+  Desarrollo y mantenimiento de e-commerce implementado dentro de docker con VUEjs 2, material design y bootstrap
 
-  Comienzo de proyecto e-commerce implementado en VUEjs 3, vuetify y tailwind
+  Comienzo de proyecto e-commerce implementado dentro de docker con VUEjs 3, vuetify y tailwind
 
   Sistema de versionado GIT
 
@@ -91,6 +90,9 @@
 ## Idiomas
 
 - Inglés
+
   Lectura: avanzado
+
   Escritura: intermedio
+
   Habla: básico
