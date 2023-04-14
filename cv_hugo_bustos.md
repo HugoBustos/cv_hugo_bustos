@@ -41,8 +41,6 @@
 
 ## Conocimientos informáticos
 
-**Programación**
-
 - Framework Laravel (PHP, Mysql) (BackEnd).
 - Framework VUE.js (JS, HTML, CSS) (FrontEnd).
 - Desarrollo de ANDROID apks.
