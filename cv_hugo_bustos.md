@@ -86,11 +86,3 @@
 - Curso de Diseño y Modelado con SOLIDWORKS en Centro Tecnológico José Censabella, 48hs.(Marzo a Junio 2018)
 
 ## Idiomas
-
-- Inglés
-
-  Lectura: avanzado
-
-  Escritura: intermedio
-
-  Habla: básico
