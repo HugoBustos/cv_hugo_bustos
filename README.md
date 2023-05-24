@@ -11,7 +11,7 @@
 - Lugar de residencia: Funes, Santa Fe, Argentina
 - Contacto:
 
-  hugobsottile92@gmail.com
+  <hugobsottile92@gmail.com>
 
   341 - 5096453
 
