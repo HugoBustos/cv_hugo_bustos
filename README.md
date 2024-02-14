@@ -10,7 +10,6 @@
 - Fecha de nacimiento: 16/11/1992
 - Lugar de residencia: Funes, Santa Fe, Argentina
 - Contacto:
-
   ><hugobsottile92@gmail.com></br>
   >(+54) 9 341 5096453
 
@@ -60,9 +59,9 @@
 
 - *Desarrollo web en WebExperto (2022-Actualidad)*
 
-  Desarrollo y mantenimiento de e-commerce implementado dentro de docker con VueJs v2, Apollo GraphQL, Material Design y Bootstrap, posteriormente migrado a VueJs v3 con Vuetify
+  Desarrollo y mantenimiento de e-commerce B2B implementado dentro de docker con VueJs v2, Apollo GraphQL, Material Design y Bootstrap, posteriormente migrado a VueJs v3 con Vuetify
 
-  Comienzo de proyecto e-commerce implementado dentro de docker con VueJs v3, Vuetify y Tailwind
+  Comienzo de proyecto e-commerce B2B implementado dentro de docker con VueJs v3, Vuetify y Tailwind
 
   Sistema de versionado GIT
 
