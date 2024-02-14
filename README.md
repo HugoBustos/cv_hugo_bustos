@@ -4,16 +4,15 @@
 
 ## Datos Personales
 
-- Edad: 30 años
+- Edad: 31
 - DNI: 37073339
 - CUIL: 20-37073339-3
 - Fecha de nacimiento: 16/11/1992
 - Lugar de residencia: Funes, Santa Fe, Argentina
 - Contacto:
 
-  <hugobsottile92@gmail.com>
-
-  341 - 5096453
+  ><hugobsottile92@gmail.com></br>
+  >(+54) 9 341 5096453
 
 ## Formación Academica
 
@@ -61,9 +60,9 @@
 
 - *Desarrollo web en WebExperto (2022-Actualidad)*
 
-  Desarrollo y mantenimiento de e-commerce implementado dentro de docker con VUEjs 2, material design y bootstrap
+  Desarrollo y mantenimiento de e-commerce implementado dentro de docker con VueJs v2, Apollo GraphQL, Material Design y Bootstrap, posteriormente migrado a VueJs v3 con Vuetify
 
-  Comienzo de proyecto e-commerce implementado dentro de docker con VUEjs 3, vuetify y tailwind
+  Comienzo de proyecto e-commerce implementado dentro de docker con VueJs v3, Vuetify y Tailwind
 
   Sistema de versionado GIT
 
