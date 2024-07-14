@@ -1,8 +1,8 @@
 # Hugo Bustos
 
-<img alt="profile" style="float: right;" src="src/img/profile.png" width="10%" height="10%" />
-
 ## Datos Personales
+
+<img id="profile" alt="profile" style="float: right;" src="../src/img/profile.png" width="10%" height="10%" />
 
 - Edad: 31
 - DNI: 37073339
@@ -10,8 +10,8 @@
 - Fecha de nacimiento: 16/11/1992
 - Lugar de residencia: Funes, Santa Fe, Argentina
 - Contacto:
-  ><hugobsottile92@gmail.com></br>
-  >(+54) 9 341 5096453
+  - Email: _hugobsottile92@gmail.com_
+  - Celular: (+54) 9 341 5096453
 
 ## Formación Academica
 
@@ -29,11 +29,11 @@
 
 - Estudios universitarios:
 
-  *Ingeniería Mecánica (Incompleta)*
+  _Ingeniería Mecánica (Incompleta)_
 
   Institución: Facultad de Ciencias, Exactas, Ingeniería y Agrimensura, UNR. Período: 2012-2014.
 
-  *Ingeniería en Sistemas de la Información (Incompleta)*
+  _Ingeniería en Sistemas de la Información (Incompleta)_
 
   Institución: Universidad Tecnológica Nacional, FRRO. Período: 2019-2021.
 
@@ -48,8 +48,8 @@
 
 ## Experiencia laboral
 
-- *Reparación de PC, programación web, apks y escritorio modo freelance.*
-- *Desarrollo de software en GRUPO UNION SA. (2019-2022)*
+- _Reparación de PC, programación web, apks y escritorio modo freelance._
+- _Desarrollo de software en GRUPO UNION SA. (2019-2022)_
 
   Apk para validación de identidad desarrollada en Android Studio
 
@@ -57,7 +57,7 @@
 
   Sistema de versionado SVN
 
-- *Desarrollo web en WebExperto (2022-Actualidad)*
+- _Desarrollo web en WebExperto (2022-Actualidad)_
 
   Desarrollo y mantenimiento de e-commerce B2B implementado dentro de docker con VueJs v2, Apollo GraphQL,
   Material Design y Bootstrap, posteriormente migrado a VueJs v3 con Vuetify
@@ -86,10 +86,4 @@
 
 ## Idiomas
 
-- Inglés
-
-  Lectura: avanzado
-
-  Escritura: intermedio
-
-  Habla: básico
+- Inglés (Intermedio)

@@ -2,11 +2,24 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   padding: 20px;
-  background-color: #f4f4f4;
+  background-color: #afa5a5;
+}
+
+header {
+  display: flex;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  gap: 5px;
+  justify-content: end;
+}
+
+#icon_pdf {
+  width: 30px;
+  height: 30px;
 }
 
 #content {
-  background: #fff;
+  background: #dadada;
   padding: 10px 25%;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -53,4 +66,28 @@ body {
   max-width: 100%;
   height: auto;
   border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  #content {
+    padding: 15px;
+    font-size: 9px;
+  }
+
+  #icon_pdf,
+  #icon_wh,
+  #icon_gh,
+  #icon_email {
+    width: 20px;
+    height: 20px;
+  }
+
+  header {
+    padding-bottom: 5px;
+    padding-right: 5px;
+  }
+
+  body {
+    padding: 10px;
+  }
 }

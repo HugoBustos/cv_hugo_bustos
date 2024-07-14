@@ -1,93 +1,25 @@
-# Hugo Bustos
+# Proyecto CV
 
-## Datos Personales
+Este proyecto consiste en la creación de un CV personalizado, desarrollado inicialmente en formato Markdown y luego publicado como un sitio web estático en HTML.
 
-- Edad: 31
-- DNI: 37073339
-- CUIL: 20-37073339-3
-- Fecha de nacimiento: 16/11/1992
-- Lugar de residencia: Funes, Santa Fe, Argentina
-- Contacto:
-  ><hugobsottile92@gmail.com></br>
-  >(+54) 9 341 5096453
+## Descripción
 
-## Formación Academica
+El CV ha sido redactado originalmente en Markdown, aprovechando su estructura clara y la facilidad para agregar formato, listas y enlaces.
 
-- Estudios primarios:
+## Tecnologías Utilizadas
 
-  Institución: Escuela Nº 107 “9 de Julio”.
+- **Markdown**: Utilizado para redactar el contenido del CV debido a su simplicidad y legibilidad.
+- **HTML**: Convertido el CV desde Markdown a HTML utilizando la biblioteca `marked.js`.
+- **CSS**: Estilos personalizados aplicados al HTML para mejorar la presentación del CV.
+- **JavaScript**: Script utilizado para cargar dinámicamente el contenido Markdown y convertirlo a HTML.
 
-  Institución: Escuela Part. Inc. Nº 1371 “Colegio del Sol”.
+## Estructura del Proyecto
 
-- Estudios secundarios:
-
-  Institución: Instituto Politécnico Superior “General San Martín”, UNR.
-
-  Título secundario: “Bachiller en producción de bienes y servicios”
-
-- Estudios universitarios:
-
-  *Ingeniería Mecánica (Incompleta)*
-
-  Institución: Facultad de Ciencias, Exactas, Ingeniería y Agrimensura, UNR. Período: 2012-2014.
-
-  *Ingeniería en Sistemas de la Información (Incompleta)*
-
-  Institución: Universidad Tecnológica Nacional, FRRO. Período: 2019-2021.
-
-## Conocimientos informáticos
-
-- Framework Laravel (PHP, Mysql) (BackEnd).
-- Framework VUE.js (JS, HTML, CSS) (FrontEnd).
-- Desarrollo de ANDROID apks.
-- Uso de herramientas de versionado SVN y GIT.
-- Uso de Docker para implementación de proyectos.
-- Administración de Redes 1er módulo CCNA.
-
-## Experiencia laboral
-
-- *Reparación de PC, programación web, apks y escritorio modo freelance.*
-- *Desarrollo de software en GRUPO UNION SA. (2019-2022)*
-
-  Apk para validación de identidad desarrollada en Android Studio
-
-  Desarrollo y mantenimiento de API implementada en Laravel
-
-  Sistema de versionado SVN
-
-- *Desarrollo web en WebExperto (2022-Actualidad)*
-
-  Desarrollo y mantenimiento de e-commerce B2B implementado dentro de docker con VueJs v2, Apollo GraphQL,
-  Material Design y Bootstrap, posteriormente migrado a VueJs v3 con Vuetify
-
-  Comienzo de proyecto e-commerce B2B implementado dentro de docker con VueJs v3, Vuetify y Tailwind
-
-  Sistema de versionado GIT
-
-## Cursos y seminarios
-
-- Curso de AUTOCAD 2D en Instituto Politécnico Superior “General San Martín”, 30hs.(Mayo 2009)
-- Curso de AUTOCAD 3D en Instituto Politécnico Superior “General San Martín”, 30hs.(Septiembre 2010)
-- Curso intensivo de JAVA en Polo Tecnológico Rosario, 60 hs.(Octubre 2012).
-- Administración de Redes CCNA, cursado nivel 1 en EducaciónIT Rosario. (2015)
-- Curso de ANDROID en EducaciónIT Rosario, 48 hs., 4 módulos:
-
-  “Programación en Android”, 15hs.(Diciembre 2016)
-
-  “Android Experto”, 15hs.(Septiembre 2017)
-
-  “Programación Avanzada en Android, 15hs.(Octubre 2017)
-
-  “Aplicaciones Responsivas en Android”, 3hs.(Noviembre 2017)
-
-- Curso de Diseño y Modelado con SOLIDWORKS en Centro Tecnológico José Censabella, 48hs.(Marzo a Junio 2018)
-
-## Idiomas
-
-- Inglés
-
-  Lectura: avanzado
-
-  Escritura: intermedio
-
-  Habla: básico
+- **md/cv_hugo_bustos.pdf**: Archivo PDF del CV para descarga.
+- **md/cv_hugo_bustos.md**: Archivo original en Markdown del CV.
+- **src/js/main.js**: Script JavaScript para cargar y renderizar el contenido Markdown como HTML.
+- **src/css/style.css**: Archivo CSS para estilizar el HTML generado.
+- **src/img/profile.png**: Imagen de perfil utilizada en el CV.
+- **src/icon**: Carpeta utilizada para alamcenar iconos utilizados en index.html.
+- **.markdownlint.yaml**: Archivo de configuración para linting de Markdown.
+- **index.html**: Página principal que muestra el CV renderizado.
