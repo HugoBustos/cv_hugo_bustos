@@ -1,6 +1,6 @@
 # Hugo Bustos
 
-<img alt="profile" style="float: right;" src="../src/img/profile.png" width="10%" height="10%" />
+<img alt="profile" style="float: right;" src="src/img/profile.png" width="10%" height="10%" />
 
 ## Datos Personales
 
