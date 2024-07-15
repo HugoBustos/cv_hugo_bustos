@@ -5,5 +5,5 @@ document.addEventListener('DOMContentLoaded', () => {
       const contentElement = document.getElementById('content');
       contentElement.innerHTML = marked.parse(markdown);
     })
-    .catch(error => console.error('Error fetching README.md:', error));
+    .catch(error => console.error('Error fetching:', error));
 });
