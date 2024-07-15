@@ -2,7 +2,7 @@
 
 ## Datos Personales
 
-<img id="profile" alt="profile" style="float: right;" src="../src/img/profile.png" width="10%" height="10%" />
+<img id="profile" alt="profile" style="float: right;" src="/src/img/profile.png" width="10%" height="10%" />
 
 - Edad: 31
 - DNI: 37073339
