@@ -1,10 +1,12 @@
 # Hugo Bustos
 
+Desarrollador Full Stack | Laravel · Vue · Android
+
 ## Datos Personales
 
 <img id="profile" alt="profile" style="float: right;" src="src/img/profile.png" width="10%" height="10%" />
 
-- Edad: 31
+- <div id="age"></div>
 - DNI: 37073339
 - CUIL: 20-37073339-3
 - Fecha de nacimiento: 16/11/1992
@@ -57,7 +59,7 @@
 
   Sistema de versionado SVN
 
-- _Desarrollo web en WebExperto (2022-Actualidad)_
+- _Desarrollo web en WebExperto (2022-2024)_
 
   Desarrollo y mantenimiento de e-commerce B2B implementado dentro de docker con VueJs v2, Apollo GraphQL,
   Material Design y Bootstrap, posteriormente migrado a VueJs v3 con Vuetify
@@ -65,6 +67,29 @@
   Comienzo de proyecto e-commerce B2B implementado dentro de docker con VueJs v3, Vuetify y Tailwind
 
   Sistema de versionado GIT
+
+- _Desarrollo web en Huayra Solutions (2024-Actualidad)_
+
+  Mantenimiento de proyecto web VueJs v2 con Vuex y migracion del mismo a VueJs v3 con Pinia. Consumo de api
+  backend laravel.
+
+  Sistema de versionado GIT
+
+## Proyectos personales
+
+- _Sistema de seguimiento de cargas_
+
+  Este proyecto es una plataforma web que permite gestionar y hacer un seguimiento del
+  traslado de grano desde un lugar a otro a través de varios medios de transporte,
+  incluyendo camiones, trenes, barcos, entre otros.
+
+  El ABM incluye ademas registro de acceso de operarios y emision de informes en distintos formatos.
+
+  - **Tecnologías utilizadas**
+
+    - **Frontend**: VueJs v3, Vuetify v3, Pinia v3
+    - **Backend**: Laravel v10, MySql
+    - **Servidor**: Subido a un FTP en Ferozo
 
 ## Cursos y seminarios
 
