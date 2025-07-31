@@ -6,109 +6,75 @@ Desarrollador Full Stack | Laravel · Vue · Android
 
 <img id="profile" alt="profile" style="float: right;" src="src/img/profile.png" width="10%" height="10%" />
 
-- <div id="age"></div>
-- DNI: 37073339
-- CUIL: 20-37073339-3
+- Edad: 32 años
 - Fecha de nacimiento: 16/11/1992
 - Lugar de residencia: Funes, Santa Fe, Argentina
-- Contacto:
-  - Email: _hugobsottile92@gmail.com_
-  - Celular: (+54) 9 341 5096453
+- Email: _hugobsottile92@gmail.com_
+- Celular: (+54) 9 341 5096453
 
-## Formación Academica
+## Formación Académica
 
-- Estudios primarios:
+- **Secundario**: Instituto Politécnico Superior “Gral. San Martín” (UNR)  
+  _Bachiller en Producción de Bienes y Servicios_
 
-  Institución: Escuela Nº 107 “9 de Julio”.
+- **Universitario (Incompleto)**:
+  - Ingeniería Mecánica – UNR (2012–2014)
+  - Ingeniería en Sistemas de la Información – UTN FRRO (2019–2021)
 
-  Institución: Escuela Part. Inc. Nº 1371 “Colegio del Sol”.
+## Conocimientos Técnicos
 
-- Estudios secundarios:
+- **Backend**: Laravel, PHP, MySQL
+- **Frontend**: Vue.js (v2 y v3), HTML, CSS, JavaScript, Vuetify, Tailwind
+- **Mobile**: Desarrollo de apps Android (Android Studio)
+- **DevOps**: Docker, GIT, SVN
+- **Otros**: Administración de redes (CCNA módulo 1)
 
-  Institución: Instituto Politécnico Superior “General San Martín”, UNR.
+## Experiencia Laboral
 
-  Título secundario: “Bachiller en producción de bienes y servicios”
+### Huayra Solutions – Desarrollador Web (2024 - Actualidad)
 
-- Estudios universitarios:
+- Mantenimiento de proyecto en Vue.js v2 con Vuex
+- Migración progresiva a Vue.js v3 con Pinia
+- Consumo de API desarrollada en Laravel
 
-  _Ingeniería Mecánica (Incompleta)_
+### WebExperto – Desarrollador Web (2022 - 2024)
 
-  Institución: Facultad de Ciencias, Exactas, Ingeniería y Agrimensura, UNR. Período: 2012-2014.
+- Desarrollo y mantenimiento de e-commerce B2B con Vue.js v2, GraphQL, Bootstrap, Vuetify
+- Migración a Vue.js v3 con Tailwind CSS
+- Uso de Docker y control de versiones con GIT
 
-  _Ingeniería en Sistemas de la Información (Incompleta)_
+### Grupo Unión S.A. – Desarrollador de Software (2019 - 2022)
 
-  Institución: Universidad Tecnológica Nacional, FRRO. Período: 2019-2021.
+- Desarrollo de app Android para validación de identidad (Android Studio)
+- Backend con Laravel y control de versiones en SVN
 
-## Conocimientos informáticos
+## Proyectos Personales
 
-- Framework Laravel (PHP, Mysql) (BackEnd).
-- Framework VUE.js (JS, HTML, CSS) (FrontEnd).
-- Desarrollo de ANDROID apks.
-- Uso de herramientas de versionado SVN y GIT.
-- Uso de Docker para implementación de proyectos.
-- Administración de Redes 1er módulo CCNA.
+### Sistema de Seguimiento de Cargas
 
-## Experiencia laboral
+Plataforma web para gestionar y realizar el seguimiento del traslado de granos mediante camiones, trenes y barcos.
+Incluye gestión de usuarios, control de accesos y generación de informes.
 
-- _Reparación de PC, programación web, apks y escritorio modo freelance._
-- _Desarrollo de software en GRUPO UNION SA. (2019-2022)_
+- **Frontend**: Vue.js 3, Vuetify 3, Pinia
+- **Backend**: Laravel 10, MySQL
+- **Servidor**: Implementado en Ferozo (vía FTP)
 
-  Apk para validación de identidad desarrollada en Android Studio
+## Cursos y Seminarios
 
-  Desarrollo y mantenimiento de API implementada en Laravel
+- **Android (EducaciónIT Rosario)**
+  - Programación en Android (15hs)
+  - Android Experto (15hs)
+  - Programación Avanzada (15hs)
+  - Aplicaciones Responsivas (3hs)
 
-  Sistema de versionado SVN
+- **Java (Polo Tecnológico Rosario)** – Curso intensivo (60hs)
 
-- _Desarrollo web en WebExperto (2022-2024)_
+- **Administración de Redes (CCNA Nivel 1)** – EducaciónIT
 
-  Desarrollo y mantenimiento de e-commerce B2B implementado dentro de docker con VueJs v2, Apollo GraphQL,
-  Material Design y Bootstrap, posteriormente migrado a VueJs v3 con Vuetify
+- **Diseño y Modelado con SolidWorks** – Centro Tecnológico José Censabella (48hs)
 
-  Comienzo de proyecto e-commerce B2B implementado dentro de docker con VueJs v3, Vuetify y Tailwind
-
-  Sistema de versionado GIT
-
-- _Desarrollo web en Huayra Solutions (2024-Actualidad)_
-
-  Mantenimiento de proyecto web VueJs v2 con Vuex y migracion del mismo a VueJs v3 con Pinia. Consumo de api
-  backend laravel.
-
-  Sistema de versionado GIT
-
-## Proyectos personales
-
-- _Sistema de seguimiento de cargas_
-
-  Este proyecto es una plataforma web que permite gestionar y hacer un seguimiento del
-  traslado de grano desde un lugar a otro a través de varios medios de transporte,
-  incluyendo camiones, trenes, barcos, entre otros.
-
-  El ABM incluye ademas registro de acceso de operarios y emision de informes en distintos formatos.
-
-  - **Tecnologías utilizadas**
-
-    - **Frontend**: VueJs v3, Vuetify v3, Pinia v3
-    - **Backend**: Laravel v10, MySql
-    - **Servidor**: Subido a un FTP en Ferozo
-
-## Cursos y seminarios
-
-- Curso de AUTOCAD 2D en Instituto Politécnico Superior “General San Martín”, 30hs.(Mayo 2009)
-- Curso de AUTOCAD 3D en Instituto Politécnico Superior “General San Martín”, 30hs.(Septiembre 2010)
-- Curso intensivo de JAVA en Polo Tecnológico Rosario, 60 hs.(Octubre 2012).
-- Administración de Redes CCNA, cursado nivel 1 en EducaciónIT Rosario. (2015)
-- Curso de ANDROID en EducaciónIT Rosario, 48 hs., 4 módulos:
-
-  “Programación en Android”, 15hs.(Diciembre 2016)
-
-  “Android Experto”, 15hs.(Septiembre 2017)
-
-  “Programación Avanzada en Android, 15hs.(Octubre 2017)
-
-  “Aplicaciones Responsivas en Android”, 3hs.(Noviembre 2017)
-
-- Curso de Diseño y Modelado con SOLIDWORKS en Centro Tecnológico José Censabella, 48hs.(Marzo a Junio 2018)
+- **Autocad 2D y 3D** – Instituto Politécnico Superior
 
 ## Idiomas
 
-- Inglés (Intermedio)
+- Inglés: Intermedio (lectura técnica, escritura básica)
