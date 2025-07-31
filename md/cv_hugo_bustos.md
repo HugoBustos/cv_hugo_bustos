@@ -6,7 +6,7 @@ Desarrollador Full Stack | Laravel · Vue · Android
 
 <img id="profile" alt="profile" style="float: right;" src="src/img/profile.png" width="10%" height="10%" />
 
-- Edad: 32 años
+- <div id="age"></div>
 - Fecha de nacimiento: 16/11/1992
 - Lugar de residencia: Funes, Santa Fe, Argentina
 - Email: _hugobsottile92@gmail.com_
