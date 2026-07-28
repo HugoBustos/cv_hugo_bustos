@@ -33,9 +33,8 @@ Desarrollador Full Stack | Laravel · Vue · Android
 
 ### Huayra Solutions – Desarrollador Web (2024 - Actualidad)
 
-- Mantenimiento de proyecto en Vue.js v2 con Vuex
+- Mantenimiento de proyecto fullstack en Vue.js v2 con Vuex y Laravel 11
 - Migración progresiva a Vue.js v3 con Pinia
-- Consumo de API desarrollada en Laravel
 
 ### WebExperto – Desarrollador Web (2022 - 2024)
 
